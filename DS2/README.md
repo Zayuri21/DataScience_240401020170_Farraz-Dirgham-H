@@ -27,7 +27,7 @@
 
 ## 📖 Tentang Repository Ini
 
-Halo! Saya adalah mahasiswa yang sedang menempuh mata kuliah **Data Science**. Repository ini mendokumentasikan seluruh perjalanan belajar saya dari Sesi 1 hingga Sesi 7, mencakup notebook praktikum yang dikerjakan selama perkuliahan.
+Halo! Nama saya farraz ,saya adalah mahasiswa UNSIA yang sedang menempuh mata kuliah Data Science. Repository ini mendokumentasikan seluruh perjalanan belajar saya dari Sesi 1 hingga Sesi 7, mencakup notebook praktikum yang dikerjakan selama perkuliahan.
 
 Saya tertarik pada Data Science karena bidang ini memiliki kemampuan luar biasa untuk mengubah data mentah menjadi wawasan  yang berguna bagi pengambilan keputusan nyata. Tujuan belajar saya adalah membangun fondasi yang kokoh — mulai dari memahami data, membersihkannya, menganalisisnya secara statistis, memvisualisasikannya, hingga membangun model Machine Learning pertama yang benar-benar dapat diandalkan.
 
