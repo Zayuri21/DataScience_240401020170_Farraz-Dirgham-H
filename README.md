@@ -1,4 +1,4 @@
-# 📊 Portofolio Data Science – Sesi 1 sampai 7
+# 📊 Portofolio Data Science Farraz Dirgham H – Sesi 1 sampai 7
 
 <div align="center">
 
@@ -99,7 +99,7 @@ DataScience_[240401020170]_[Farraz Dirgham H]/
 ### Opsi 1 – Google Colab (Tanpa Instalasi, Direkomendasikan)
 
 1. Klik link notebook di tabel di atas → GitHub menampilkan notebook
-2. Klik **"Open in Colab"** (atau buka [colab.research.google.com](https://colab.research.google.com) → `File → Upload notebook`)
+2. Klik "Open in Colab" (atau buka [colab.research.google.com](https://colab.research.google.com) → `File → Upload notebook`)
 3. Jalankan sel dari atas ke bawah: `Runtime → Run All` atau `Shift + Enter`
 
 ### Opsi 2 – Jupyter Lokal
