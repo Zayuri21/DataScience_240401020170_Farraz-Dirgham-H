@@ -1,5 +1,7 @@
 # 📊 Portofolio Data Science Farraz Dirgham H – Sesi 1 sampai 7
 
+Jika Link daftar sesi 1-7 tidak berfungsi harap ke folder DS2 lalu kilik README.md di folder tersebut
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
