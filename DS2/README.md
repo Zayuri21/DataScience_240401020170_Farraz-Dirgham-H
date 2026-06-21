@@ -1,4 +1,4 @@
-# 📊 Portofolio Data Science – Sesi 1 sampai 7
+# 📊 Portofolio Data Science Farraz Dirgham H – Sesi 1 sampai 7
 
 <div align="center">
 
