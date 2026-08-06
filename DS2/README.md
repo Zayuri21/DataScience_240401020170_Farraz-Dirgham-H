@@ -96,7 +96,7 @@ DataScience_[240401020170]_[Farraz Dirgham H]/
 
 ## 📚 Daftar Sesi & Notebook
 
-| # | Topik | Materi Utama | Link Notebook |
+| No | Topik | Materi Utama | Link Notebook |
 |:---:|---|---|:---:|
 | 1 | Pengenalan Data Science | Definisi DS, siklus hidup, peran, jenis data, ekosistem Python | [📓 Buka](./Sesi_1/Sesi1_Pengenalan_DataScience.ipynb) |
 | 2 | Struktur Data Python, NumPy & Pandas | List, tuple, set, dict, array NumPy, Series & DataFrame Pandas | [📓 Buka](./Sesi_2/Sesi2_StrukturData_NumPy_Pandas.ipynb) |
